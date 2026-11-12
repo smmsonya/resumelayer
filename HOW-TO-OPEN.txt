@@ -1,0 +1,20 @@
+ResumeLayer — landing page preview for review (static build)
+
+HOW TO OPEN
+1. Unzip the archive (keep the folder as it is).
+2. Double-click "index.html" (or drag it into Chrome, Edge, Safari or Firefox).
+No installation, Node.js or server is needed. Internet is not required.
+
+WHAT TO KNOW
+- This is a design/copy preview, not the product. Nothing is uploaded or processed.
+- The "Join the waitlist" form is a demo: it only checks the email format and
+  shows that sign-up is not available yet. The email is not saved or sent anywhere.
+- The resume cards use fictional sample data ("Alex Morgan"). The "94% ATS Score"
+  badge is a static illustration, not a real feature.
+- Keep the "_next" folder next to index.html; the page needs it.
+
+КАК ОТКРЫТЬ (RU)
+1. Распакуйте архив (не меняя структуру папки).
+2. Дважды кликните по файлу index.html — страница откроется в браузере.
+Установка, Node.js и сервер не нужны, интернет не требуется.
+Форма Waitlist — демо: email не сохраняется и никуда не отправляется.
